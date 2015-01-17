@@ -1,2 +1,3 @@
 def hello():
-    print 'good job'
+    """method will return a statement"""
+    return 'good job'
